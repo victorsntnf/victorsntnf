@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**victorsntnf/victorsntnf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Victor Felix, I'm from Brazil 🇧🇷 I'm a IT Infrastructure Analyst at @arcasolutions
+Graduated in Information Systems from ITE - Instituição Toledo de Ensino.
 
-Here are some ideas to get you started:
+I like to be always learning and facing challenges. I like to put into practice everything I learn and enjoy playing games in my spare time, my favorite game is Counter-Striker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**🏹 Transforme os seus sonhos em metas! 🎯**
+
+- 📍From SP living in Bauru
+- ☁️ IT Infrastructure Analyst at [Arca Solutions](https://www.arcasolutions.com/)
+- 📚 Graduated in SI/ADS at [ITE](https://www.ite.edu.br/)
+
+Reach me out ⤵️
+
+[](https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/videos) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorhfelix//)](https://www.linkedin.com/in/victorhfelix//) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/victorsntnf/)](https://www.instagram.com/victorsntnf) 
+[](https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/videos) 
