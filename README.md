@@ -14,5 +14,4 @@ I like to be always learning and facing challenges. I like to put into practice 
 
 Reach me out ⤵️
 
-[](https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/videos) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorhfelix//)](https://www.linkedin.com/in/victorhfelix//) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/victorsntnf/)](https://www.instagram.com/victorsntnf) 
-[](https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/videos) 
+[](https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/videos) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorhfelix//)](https://www.linkedin.com/in/victorhfelix//)
