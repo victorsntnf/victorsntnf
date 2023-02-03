@@ -6,7 +6,7 @@ Graduated in Information Systems from ITE - Instituição Toledo de Ensino.
 I like to be always learning and facing challenges. I like to put into practice everything I learn and enjoy playing games in my spare time, my favorite game is Counter-Striker.
 
 
-**🏹 Transforme os seus sonhos em metas! 🎯**
+**🏹 Turn your dreams into goals!🎯**
 
 - 📍From SP living in Bauru
 - ☁️ IT Infrastructure Analyst at [Arca Solutions](https://www.arcasolutions.com/)
